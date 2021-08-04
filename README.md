@@ -1,7 +1,7 @@
 # DESCRIPTION for the Project:
 
-It is react redux application that is used for reminder, the user can give the message and date time for reminder and it will show an alert with the message at that particular time.
-It also has the list of reminder which as been made
+-It is react redux application that is used for reminder, the user can give the message and date time for reminder and it will show an alert with the message at that particular time.
+-It also has the list of reminder which as been made
 
 
 
